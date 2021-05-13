@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jjaugustoo
  - 👀 Programador de Sistemas
-- 🌱 I’m currently learning tudo
+- 🌱 I’m currently learning everything
 - 💞️
 - 📫 
 
